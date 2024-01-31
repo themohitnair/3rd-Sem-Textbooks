@@ -1,11 +1,7 @@
-Certainly! Below is a simple README in markdown for your repository:
-
-
-
 # TextBook and Notes Repository (ISE)
 ---
 
-Welcome to the ISE TextBook and Notes Repository! This repository contains a collection of essential books in the field of computer science along with notes essential for exam preparation.
+Welcome to the ISE TextBook and Notes Repository! This repository contains a curated collection of essential books in the field of computer science along with notes crucial for exam preparation.
 
 ## Books Included:
 
@@ -16,6 +12,7 @@ Welcome to the ISE TextBook and Notes Repository! This repository contains a col
 5. **Silberschatz - Operating Systems.pdf**
 6. **Sweigart - Automate the Boring Stuff with Python.pdf**
 7. **Tenenbaum - Data Structures Using C and C++.pdf**
+8. **Thareja - Data Structures.pdf**
 
 Feel free to utilize these resources for your learning and reference purposes. If you have any suggestions or would like to contribute to this collection, please open an issue or submit a pull request.
 
